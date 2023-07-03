@@ -11,7 +11,6 @@ class Main {
 		person1.print();
 		
 		// 人数の合計を出力
-		int number = 1;
-		System.out.println("合計" + number + "人です");
+		System.out.println("合計" + Person.number + "人です");
 	}
 }
